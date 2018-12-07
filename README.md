@@ -33,7 +33,7 @@ The story was also used by [BBC London](https://drive.google.com/file/d/12F_XrhF
 
 ## Visualisations
 
-* Job growth by region horizontal bar chart
+* [Job growth by region horizontal bar chart](https://github.com/BBC-Data-Unit/UK_jobs_growth/blob/master/Regional%20UK%20jobs%20data.PNG)
 
 ## Background and briefing
 
