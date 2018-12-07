@@ -1,5 +1,7 @@
 # UK_jobs_growth
 
+
+
 In November 2018 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-46288515) one in three new jobs created in the UK over the past decade has been in London.
 
 Employment has been rising across the country but by far the strongest growth has been in the capital, according to official employment statistics.
@@ -29,9 +31,6 @@ The story was also used by [BBC London](https://drive.google.com/file/d/12F_XrhF
 
 * [UK jobs data](https://docs.google.com/spreadsheets/d/19XkScSUVTR6dzkC7F4sqoVAH_YTEoElYNokbWrJOzBs/edit?usp=sharing)
 
-## Visualisation
-
-* 
 
 ## Background and briefing
 
