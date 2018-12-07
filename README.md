@@ -27,10 +27,13 @@ The story was also used by [BBC London](https://drive.google.com/file/d/12F_XrhF
   
   
   
-  ## Get the data
+## Get the data
 
 * [UK jobs data](https://docs.google.com/spreadsheets/d/19XkScSUVTR6dzkC7F4sqoVAH_YTEoElYNokbWrJOzBs/edit?usp=sharing)
 
+## Visualisations
+
+* Job growth by region horizontal bar chart
 
 ## Background and briefing
 
