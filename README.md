@@ -1,6 +1,6 @@
 # UK_jobs_growth
 
-
+![](https://raw.githubusercontent.com/BBC-Data-Unit/UK_jobs_growth/master/Regional%20UK%20jobs%20data.PNG)
 
 In November 2018 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-46288515) one in three new jobs created in the UK over the past decade has been in London.
 
