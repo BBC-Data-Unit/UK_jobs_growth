@@ -31,7 +31,7 @@ The story was also used by [BBC London](https://drive.google.com/file/d/12F_XrhF
 
 ## Visualisation
 
-* Map: FJHGSDFJGHFJGHFJG
+* 
 
 ## Background and briefing
 
