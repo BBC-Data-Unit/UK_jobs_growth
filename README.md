@@ -23,7 +23,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * The Scotsman: [Scotland lagging behind UK in jobs and population](https://www.scotsman.com/news/politics/scotland-lagging-behind-uk-in-jobs-and-population-1-4835762) *28 November 2018*
   
   
-The story was also used by [BBC London](https://drive.google.com/file/d/12F_XrhFu6xhLyShtdJ-pE9fGHRV3kq1W/view?usp=sharing)
+The story was also used by [BBC London News](https://drive.google.com/file/d/12F_XrhFu6xhLyShtdJ-pE9fGHRV3kq1W/view?usp=sharing) and BBC Radio London
   
   
   
